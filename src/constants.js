@@ -14,6 +14,10 @@ export const knightWhite =
   "https://upload.wikimedia.org/wikipedia/commons/7/70/Chess_nlt45.svg";
 export const knightBlack =
   "https://upload.wikimedia.org/wikipedia/commons/e/ef/Chess_ndt45.svg";
+export const queenWhite =
+  "https://upload.wikimedia.org/wikipedia/commons/1/15/Chess_qlt45.svg";
+export const queenBlack =
+  "https://upload.wikimedia.org/wikipedia/commons/4/47/Chess_qdt45.svg";
 
 export const pawnInitialPositions = {
   1: [48, 19, 50, 51, 52, 53, 54, 55],
